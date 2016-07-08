@@ -1,5 +1,5 @@
 // weakSelf
-// 
+// waekSelf Summary
 //
 // IDECodeSnippetCompletionPrefix: ws
 // IDECodeSnippetCompletionScopes: [CodeBlock]
